@@ -15,7 +15,7 @@ export default function Contact() {
               <FiPhone size={24} />
               <div>
                 <p className="font-semibold text-white">Phone</p>
-                <p>+251 912 345 678</p>
+                <p>+251 955 224 175</p>
               </div>
             </div>
 
@@ -23,7 +23,7 @@ export default function Contact() {
               <FiMail size={24} />
               <div>
                 <p className="font-semibold text-white">Email</p>
-                <p>youremail@example.com</p>
+                <p>abdihalim487@gmail.com</p>
               </div>
             </div>
 
@@ -38,7 +38,7 @@ export default function Contact() {
 
           {/* Contact Form */}
           <form
-            action="https://formspree.io/f/yourformid" // replace with your form action URL
+            action="https://formspree.io/f/xjkrjjdw" // replace with your form action URL
             method="POST"
             className="md:w-2/3 bg-black/80 rounded-lg p-8 flex flex-col gap-6 shadow-lg"
           >
