@@ -61,11 +61,11 @@ export default function Hero() {
             I build modern web applications with performance and design in mind — from concept to deployment.
           </p>
           <div className="mt-8 flex justify-center gap-6 text-3xl text-white">
-            <a href="#"><FaLinkedin className="hover:text-pink-400 transition" /></a>
-            <a href="#"><FaGithub className="hover:text-pink-400 transition" /></a>
-            <a href="#"><FaTelegram className="hover:text-pink-400 transition" /></a>
-            <a href="#"><FaTwitter className="hover:text-pink-400 transition" /></a>
-            <a href="#"><FaInstagram className="hover:text-pink-400 transition" /></a>
+            <a href="https://linkedin.com/in/abdelhalim-adem"><FaLinkedin className="hover:text-pink-400 transition" /></a>
+            <a href="https://github.com/hackingthehack"><FaGithub className="hover:text-pink-400 transition" /></a>
+            <a href="https://t.me/halimteket"><FaTelegram className="hover:text-pink-400 transition" /></a>
+            <a href="https://twitter.com/halimteket"><FaTwitter className="hover:text-pink-400 transition" /></a>
+            <a href="https://instagram.com/halimteket"><FaInstagram className="hover:text-pink-400 transition" /></a>
           </div>
         </div>
       </div>

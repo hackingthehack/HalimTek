@@ -16,22 +16,22 @@ export default function Footer() {
 
         {/* Social Icons */}
         <div className="flex space-x-4 mt-2">
-          <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://github.com/hackingthehack" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiGithub size={20} />
           </a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://linkedin.com/in/abdelhalim-adem" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiLinkedin size={20} />
           </a>
-          <a href="https://t.me/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://t.me/halimteket" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiSend size={20} />
           </a>
-          <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://facebook.com/halimteket" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiFacebook size={20} />
           </a>
-          <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://twitter.com/halimteket" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiTwitter size={20} />
           </a>
-          <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
+          <a href="https://instagram.com/halimteket" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition">
             <FiInstagram size={20} />
           </a>
         </div>
