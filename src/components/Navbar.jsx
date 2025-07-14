@@ -89,7 +89,7 @@ export default function Navbar() {
       {/* Mobile Menu Sidebar */}
       <div
         ref={menuRef}
-        className={`fixed top-16 left-0 h-[calc(100vh-4rem)] w-64 bg-white/70 dark:bg-black/70 backdrop-blur-md shadow-xl transform transition-transform duration-300 ease-in-out md:hidden z-50
+        className={`fixed top-16 left-0 h-[calc(100vh-4rem)] w-64 bg-black/70 backdrop-blur-md shadow-xl transform transition-transform duration-300 ease-in-out md:hidden z-50
           ${menuOpen ? "translate-x-0" : "-translate-x-full"}`}
       >
         <ul className="flex flex-col p-6 space-y-6 text-pink-600 dark:text-pink-400">
