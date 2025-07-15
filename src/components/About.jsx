@@ -45,10 +45,11 @@ export default function About() {
 
           {/* Timeline */}
           <div className="space-y-6 border-l-4 border-pink-600 pl-6">
-            <TimelineItem year="2021" text="Started learning HTML, CSS & JS" />
-            <TimelineItem year="2022" text="Built my first full stack MERN app" />
+            <TimelineItem year="2020" text="Started learning HTML, CSS & JS" />
+            <TimelineItem year="2021 - 2023" text="Built my first full stack MERN app" />
             <TimelineItem year="2023" text="Graduated in Computer Engineering and launched AskAbdelhalimET" />
-            <TimelineItem year="2024" text="Started HalimTek & building portfolio" />
+            <TimelineItem year="2024" text="Started working as a freelance developer" />
+            <TimelineItem year="2025" text="Started HalimTek and working on projects" />
           </div>
         </div>
       </div>
