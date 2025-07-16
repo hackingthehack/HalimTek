@@ -37,7 +37,7 @@ export default function About() {
           {/* Avatar */}
           <div className="w-full bg-white/10 backdrop-blur-sm p-6 rounded-2xl shadow-xl flex flex-col items-center">
             <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-pink-500 mb-4">
-              <img src="/avatar.jpg" alt="Avatar" className="w-full h-full object-cover" />
+              <img src="/pro2.jpg" alt="Avatar" className="w-full h-full object-cover" />
             </div>
             <h3 className="text-2xl font-bold">Abdelhalim Adem</h3>
             <p className="text-gray-400 text-sm">Full Stack Developer (MERN)</p>
